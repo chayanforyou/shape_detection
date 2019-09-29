@@ -1,0 +1,26 @@
+<annotation>
+	<folder>triangle</folder>
+	<filename>2017_3_6_22_40_25.jpg</filename>
+	<path>C:\Users\Minion\Desktop\sketches\triangle\2017_3_6_22_40_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>709</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Triangle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>170</ymin>
+			<xmax>331</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

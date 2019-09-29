@@ -1,0 +1,26 @@
+<annotation>
+	<folder>line</folder>
+	<filename>2017_3_7_10_47_57.jpg</filename>
+	<path>C:\Users\Minion\Desktop\sketches\line\2017_3_7_10_47_57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>322</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>37</ymin>
+			<xmax>102</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

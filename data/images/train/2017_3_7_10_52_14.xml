@@ -1,0 +1,26 @@
+<annotation>
+	<folder>circle</folder>
+	<filename>2017_3_7_10_52_14.jpg</filename>
+	<path>C:\Users\Minion\Desktop\sketches\circle\2017_3_7_10_52_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>322</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>63</ymin>
+			<xmax>176</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

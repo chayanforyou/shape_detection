@@ -1,0 +1,26 @@
+<annotation>
+	<folder>square</folder>
+	<filename>2017_3_6_23_0_9.jpg</filename>
+	<path>C:\Users\Minion\Desktop\sketches\square\2017_3_6_23_0_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>322</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>63</ymin>
+			<xmax>201</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>
